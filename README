@@ -1,0 +1,12 @@
+COMO RODAR
+
+1. No github comecar um codespace
+2. No terminal rodar os seguintes comandos:
+
+      make
+      
+      # terminal 1
+      ./servidor
+      
+      # terminal 2 (com o servidor já no ar)
+      ./cliente
